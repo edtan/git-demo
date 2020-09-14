@@ -4,7 +4,7 @@ berry
 
 ## Unrelated master section
 Placeholder
-M1
+M3
 
 ## Unrelated feature section
 Placeholder
