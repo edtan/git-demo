@@ -1,5 +1,5 @@
 # File contents
-apple
+cherry
 
 
 ## Unrelated master section
@@ -7,6 +7,8 @@ Placeholder
 
 ## Unrelated feature section
 Placeholder
+F3
+
 
 ## Unrelated victim section
 Placeholder
